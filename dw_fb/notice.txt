@@ -1,0 +1,1 @@
+You should put white(255,255,255)-masked images into fb_in dir.

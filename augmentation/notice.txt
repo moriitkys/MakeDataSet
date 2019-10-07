@@ -1,0 +1,1 @@
+You should put color images into img_in and put masked images into mask_in AS THE SAME NAME
